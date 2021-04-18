@@ -1,0 +1,66 @@
+# Compiled source #
+###################
+*.o
+*.bin
+*.map
+*.hex
+*.dis
+*.pyc
+*.pdf
+LICENSE*
+*.png
+*.jpg
+README*
+*.md
+AUTHORS*
+COPYING*
+*CM7*
+*CM4*
+*H7*
+*cortex*
+*stm32*
+# Packages #
+############
+/src/omv/boards/O*
+/src/omv/boards/P*
+!/src/omv/boards/NANO33
+**/nrf*/
+**/winc*/
+**/stm32*/
+**/mlx*/
+**/lsm*/
+**/cym*/
+**/cyw*/
+**/lepton*/
+**/cmsis*/
+# Logs and databases #
+######################
+*.log
+
+# VIM swap files #
+######################
+*.swp
+
+# Build dir #
+######################
+src/build
+
+# IDE config file #
+######################
+usr/openmv.config
+
+# Caffe #
+######################
+ml/cmsisnn/caffe
+
+# VS Code #
+######################
+.vscode/
+
+# Qt Creator #
+######################
+openmv.config
+openmv.creator
+openmv.creator.user
+openmv.files
+openmv.includes
