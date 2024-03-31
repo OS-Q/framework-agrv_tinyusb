@@ -1,6 +1,6 @@
 {
   "name": "framework-agrv_tinyusb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "USB Host/Device stack for embedded system, customized for AgRV devices",
   "keywords": [
     "framework",
